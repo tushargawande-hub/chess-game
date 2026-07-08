@@ -26,7 +26,8 @@ python chess.py
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="720" height="470" alt="Screenshot 2026-07-08 150850" src="https://github.com/user-attachments/assets/03052e4c-dedd-4319-b3d4-240f96d0d709" />
+
 
 ## Author
 
